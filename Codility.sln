@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryGap", "BinaryGap\Bina
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclicRotation", "CyclicRotation\CyclicRotation.csproj", "{1668576C-FD4A-4940-8986-F72DB41A2F2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccurrencesInArray", "OddOccurrencesInArray\OddOccurrencesInArray.csproj", "{37FB59BD-0C3F-420C-8A71-17F1914BC185}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1668576C-FD4A-4940-8986-F72DB41A2F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1668576C-FD4A-4940-8986-F72DB41A2F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1668576C-FD4A-4940-8986-F72DB41A2F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37FB59BD-0C3F-420C-8A71-17F1914BC185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FB59BD-0C3F-420C-8A71-17F1914BC185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FB59BD-0C3F-420C-8A71-17F1914BC185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FB59BD-0C3F-420C-8A71-17F1914BC185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
