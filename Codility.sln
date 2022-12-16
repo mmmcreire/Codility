@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrogJmp", "FrogJmp\FrogJmp.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PermMissingElem", "PermMissingElem\PermMissingElem.csproj", "{255ACE5A-9629-41FA-AC83-ADCDC6D150D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapeEquilibrium", "TapeEquilibrium\TapeEquilibrium.csproj", "{676D7C7A-C8D1-4DEA-8452-1358FFC73FDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TapeEquilibrium", "TapeEquilibrium\TapeEquilibrium.csproj", "{676D7C7A-C8D1-4DEA-8452-1358FFC73FDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogRiverOne", "FrogRiverOne\FrogRiverOne.csproj", "{7B8E5FEB-53DD-4BCA-9CEF-767FF3CB2040}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{676D7C7A-C8D1-4DEA-8452-1358FFC73FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{676D7C7A-C8D1-4DEA-8452-1358FFC73FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{676D7C7A-C8D1-4DEA-8452-1358FFC73FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B8E5FEB-53DD-4BCA-9CEF-767FF3CB2040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8E5FEB-53DD-4BCA-9CEF-767FF3CB2040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8E5FEB-53DD-4BCA-9CEF-767FF3CB2040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8E5FEB-53DD-4BCA-9CEF-767FF3CB2040}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
