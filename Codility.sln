@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermCheck", "PermCheck\Perm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxCounters", "MaxCounters\MaxCounters.csproj", "{14958199-8A1A-4F63-A3AE-1001E5BC1A13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingInteger", "MissingInteger\MissingInteger.csproj", "{169FD9ED-CEC7-4A99-BCA9-90053C135C87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{14958199-8A1A-4F63-A3AE-1001E5BC1A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14958199-8A1A-4F63-A3AE-1001E5BC1A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14958199-8A1A-4F63-A3AE-1001E5BC1A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{169FD9ED-CEC7-4A99-BCA9-90053C135C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169FD9ED-CEC7-4A99-BCA9-90053C135C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169FD9ED-CEC7-4A99-BCA9-90053C135C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169FD9ED-CEC7-4A99-BCA9-90053C135C87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
